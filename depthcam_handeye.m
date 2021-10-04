@@ -11,7 +11,7 @@ z_noise_level = 0.003;
 % the measurement error of position of contact point is 0~0.2mm
 %data = load('normalsim0201.txt');
 % the measurement error of position of contact point is 0~0.5mm
-data = load('normalsim0201.txt');
+data = load('normalsim0501.txt');
 
 % data_true is true data
 data_true = data(1:data_n,1:3);
